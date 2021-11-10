@@ -9,8 +9,9 @@ body{
 }
 
 header{
+	font-family: American Typewriter, serif;
     background-color:blue;
-    color: white;
+    color: yellowgreen;
     font-size: 18px;
     padding-top:2%;
     padding-bottom: 1%;
